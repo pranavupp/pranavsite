@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pranavupp/static/css/main.e6c13ad2.css",
+    "main.js": "/pranavupp/static/js/main.e55deed2.js",
+    "static/js/787.9336d0e8.chunk.js": "/pranavupp/static/js/787.9336d0e8.chunk.js",
+    "static/media/gradpic.jpg": "/pranavupp/static/media/gradpic.43cbd0992b516fa0c804.jpg",
+    "index.html": "/pranavupp/index.html",
+    "main.e6c13ad2.css.map": "/pranavupp/static/css/main.e6c13ad2.css.map",
+    "main.e55deed2.js.map": "/pranavupp/static/js/main.e55deed2.js.map",
+    "787.9336d0e8.chunk.js.map": "/pranavupp/static/js/787.9336d0e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e55deed2.js"
+  ]
+}
